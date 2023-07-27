@@ -1,4 +1,4 @@
-** 技术栈 ** </br></br>
+**技术栈** </br></br>
 Vue3 + TypeScript + Vite + Pinia + Vue-Router + Element-Plus + Axios + Scss </br></br>
 
 ## 登录页
