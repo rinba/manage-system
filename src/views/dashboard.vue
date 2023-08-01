@@ -51,27 +51,27 @@ const options2 = {
 };
 const todoList = reactive([
 	{
-		title: '今天要修复100个bug',
+		title: '今天要做20个俯卧撑',
 		status: false
 	},
 	{
-		title: '今天要修复100个bug',
+		title: '今天要跑5KM',
 		status: false
 	},
 	{
-		title: '今天要写100行代码加几个bug吧',
+		title: '今天要复习Vue的知识点',
 		status: false
 	},
 	{
-		title: '今天要修复100个bug',
+		title: '本周争取上线微信小程序项目',
 		status: false
 	},
 	{
-		title: '今天要修复100个bug',
+		title: '本月将GitHub上面的两个项目继续完善',
 		status: true
 	},
 	{
-		title: '今天要写100行代码加几个bug吧',
+		title: '本月将后台管理系统项目使用TS重构',
 		status: true
 	}
 ]);
@@ -121,7 +121,7 @@ const todoList = reactive([
 							<div class="grid-content grid-con-1">
 								<el-icon class="grid-con-icon"><User /></el-icon>
 								<div class="grid-cont-right">
-									<div class="grid-num">1234</div>
+									<div class="grid-num">13599</div>
 									<div>用户访问量</div>
 								</div>
 							</div>
@@ -132,7 +132,7 @@ const todoList = reactive([
 							<div class="grid-content grid-con-2">
 								<el-icon class="grid-con-icon"><ChatDotRound /></el-icon>
 								<div class="grid-cont-right">
-									<div class="grid-num">321</div>
+									<div class="grid-num">15</div>
 									<div>系统消息</div>
 								</div>
 							</div>
@@ -143,7 +143,7 @@ const todoList = reactive([
 							<div class="grid-content grid-con-3">
 								<el-icon class="grid-con-icon"><Goods /></el-icon>
 								<div class="grid-cont-right">
-									<div class="grid-num">5000</div>
+									<div class="grid-num">1122</div>
 									<div>商品数量</div>
 								</div>
 							</div>
